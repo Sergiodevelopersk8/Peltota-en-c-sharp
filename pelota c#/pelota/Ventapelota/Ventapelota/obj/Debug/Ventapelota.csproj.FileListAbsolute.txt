@@ -1,0 +1,90 @@
+F:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe.config
+F:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe
+F:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.pdb
+F:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.dll
+F:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.pdb
+F:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csprojAssemblyReference.cache
+F:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Form1.resources
+F:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Properties.Resources.resources
+F:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.GenerateResource.cache
+F:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CoreCompileInputs.cache
+F:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CopyComplete
+F:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.exe
+F:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.pdb
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe.config
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.pdb
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.dll
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.pdb
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csprojAssemblyReference.cache
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Form1.resources
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Properties.Resources.resources
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.GenerateResource.cache
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CopyComplete
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.exe
+C:\Users\DrawH\OneDrive\Escritorio\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.pdb
+H:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe.config
+H:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe
+H:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.pdb
+H:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.dll
+H:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.pdb
+H:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csprojAssemblyReference.cache
+H:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Form1.resources
+H:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Properties.Resources.resources
+H:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.GenerateResource.cache
+H:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CoreCompileInputs.cache
+H:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CopyComplete
+H:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.exe
+H:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.pdb
+G:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe.config
+G:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe
+G:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.pdb
+G:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.dll
+G:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.pdb
+G:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Form1.resources
+G:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Properties.Resources.resources
+G:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.GenerateResource.cache
+G:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CoreCompileInputs.cache
+G:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CopyComplete
+G:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.exe
+G:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.pdb
+D:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe.config
+D:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe
+D:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.pdb
+D:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.dll
+D:\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.pdb
+D:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csprojAssemblyReference.cache
+D:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Form1.resources
+D:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Properties.Resources.resources
+D:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.GenerateResource.cache
+D:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CoreCompileInputs.cache
+D:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CopyComplete
+D:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.exe
+D:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.pdb
+G:\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe.config
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\bin\Debug\Ventapelota.pdb
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.dll
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\bin\Debug\Pelotal.pdb
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csprojAssemblyReference.cache
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Form1.resources
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Properties.Resources.resources
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.GenerateResource.cache
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CopyComplete
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.exe
+C:\Users\user\Desktop\trabajo0-20190506T031116Z-001\trabajo0\Ventapelota\Ventapelota\obj\Debug\Ventapelota.pdb
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe.config
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\bin\Debug\Ventapelota.exe
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\bin\Debug\Ventapelota.pdb
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\bin\Debug\Pelotal.pdb
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csprojAssemblyReference.cache
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Form1.resources
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\obj\Debug\Ventapelota.Properties.Resources.resources
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.GenerateResource.cache
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\obj\Debug\Ventapelota.csproj.CopyComplete
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\obj\Debug\Ventapelota.exe
+C:\Users\user\Desktop\pelota c#\pelota\Ventapelota\Ventapelota\obj\Debug\Ventapelota.pdb
